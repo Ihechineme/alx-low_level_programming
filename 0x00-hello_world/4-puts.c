@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- * The function main indicates the entry point
- * Return 0 indicates that the function is a success
+ * To describe the use of the put function
+ * main: Entry point of the program
+ *
+ * Return: 0 indicates that the function is a success
  */
 int main(void)
 {
