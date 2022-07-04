@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * To describe the use of the put function
- * main: Entry point of the program
+ * main - Entry point of the program
  *
  * Return: 0 indicates that the function is a success
  */
