@@ -5,8 +5,9 @@
 #include <stdio.h>
 /**
  * main - entry point of program
- * 
  * if else: checks random number n using the conditions given
+ *
+ * return: 0 if the code is successful
  */
 int main(void)
 {
